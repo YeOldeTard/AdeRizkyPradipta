@@ -1,3 +1,3 @@
 "AdeRizkyPradipta"
 
-go to https://yeoldetard.github.io/AdeRizkyPradipta/main.html 
+This is my first time using git and trying to code thing. . . .
